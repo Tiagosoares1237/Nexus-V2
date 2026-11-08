@@ -1,0 +1,32 @@
+NEXUS / WORKROOM
+
+QUER SO ABRIR O PROGRAMA?
+
+  Dê dois cliques em 01_ABRIR_NEXUS.bat
+  Pronto. O NEXUS abre no seu navegador, sem VS Code.
+
+Seu computador precisa ter Java instalado para esse atalho.
+
+QUER CRIAR UM EXE PARA OUTRAS PESSOAS?
+
+  Dê dois cliques em 02_GERAR_EXE.bat
+  Ao terminar, abra dist\NEXUS\NEXUS.exe
+  Para compartilhar, envie dist\NEXUS_Windows_Portatil.zip
+
+O executável gerado vem com o Java incluído.
+Não envie NEXUS.exe sozinho; mantenha as pastas app e runtime.
+
+QUER ALTERAR O CODIGO?
+
+  Abra ABRIR_NEXUS.java e web\ no VS Code.
+  Quando terminar, dê dois cliques em 03_RECOMPILAR_CODIGO.bat
+
+SE QUISER ENCERRAR:
+  Clique em 'Encerrar NEXUS' no menu lateral do aplicativo.
+  Fechar a aba do navegador não encerra o programa Java.
+
+SEUS DADOS:
+  %LOCALAPPDATA%\NEXUS\dados\nexus.json
+  Faça cópias desse arquivo para guardar um backup.
+
+Sem conta, sem nuvem, sem cobrança.
